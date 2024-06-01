@@ -9,7 +9,7 @@
 
   /* You can change the background color by typing the color code. (If you do not enter a background-image image, the background-color will be active.) */
   --background_color: #000;
-  --background_image: url("../img/wallpaper.jpg");
+  --background_image: url("https://us-east-1.tixte.net/uploads/anime-oni.discowd.com/purple-moon.jpeg");
 
   /* You can change the frame thickness and color of the picture by typing the number of pixels and the color code. */
   --image_border_color: #000;
@@ -20,8 +20,8 @@
   --image_height: 140px;
 
   /* You can change the colors of the title and description section by typing the color codes. */
-  --title_color: #fff;
-  --description_color: #f1c40f;
+  --title_color: #FFFFFF;
+  --description_color: #FFFFFF;
 
   /* You can change the colors of social media icons by changing the color code. */
   --svg_color: #fff;
